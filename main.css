@@ -304,6 +304,59 @@ height: 25vh;
 .fifthcard>img{
     width: 300px;
 }
+.jonContent>h2{
+    color: #333132;
+    font-family: "Montserrat",sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.imgCont>img{
+    /* border: 1px solid red ; */
+    margin-left: 36px;
+    /* width: 40%;
+    height: 40%; */
+    /* border-radius: 60%; */
+}
+.jonContent>span{
+    position: relative;
+    color: #8bc5c6;
+    font-size: 19px;
+    font-family: "Montserrat",sans-serif;
+right: 25px;
+
+}
+.jonContent>p{
+    color: #333132;
+    font-size: 16px;
+    font-family: "Montserrat",sans-serif;
+    margin-top: 30px;
+
+}
+.jonContent>button{
+    /* border: 1px solid red; */
+    padding: 10px;
+    width: 200px;
+    height: 50px;
+    color: #fff;
+    background-color:  #8bc5c6;
+    border: none;
+    margin-top: 40px;
+}
+.jonWrapper{
+    margin-top: 50px;
+    display: flex;
+    height: 80vh;
+    gap: 45px;
+    
+}
+.jonContent{
+    margin-top: 55px;
+    /* margin-left: 20px; */
+    position: absolute;
+    left: 700px;
+
+}
 
 
 
